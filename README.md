@@ -31,4 +31,6 @@ science_fiction = 'It was hard enough to be forced out of my job, but it was rea
 ```
 ```
 classify(science_fiction,model_s,model_r,model_m)
+
+[OUTPUT]:'science fiction'
 ```
